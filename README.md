@@ -3,8 +3,8 @@ Here Frontend is done under react native and database connected to firebase. Thi
 
 ## UI'S Implemented 
 
-![GitHub Logo](First React Native Project.png)
+![GitHub Logo](First_React_Native_Project.png)
 
-## Firebase COnfiguration 
+## Firebase Configuration 
 
-![GitHub Logo](firebase React Native.jpg)
+![GitHub Logo](Firebase_React_Native.jpg)
